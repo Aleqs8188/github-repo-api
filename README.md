@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Repositories API
 
 This is a simple API that allows users to list all their GitHub repositories that are not forks. The API fetches information about the repositories, including the repository name, owner login, and for each branch, its name and last commit SHA.
@@ -96,3 +97,7 @@ GitHub API
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](.) file for details.
+=======
+# github-repo-api
+Project for test task.
+>>>>>>> 0f41f83028f48b62b10a32e850e80d5c0ae304bc
